@@ -41,4 +41,4 @@ jobs:
           app-name: 'pilotdev-outagemap'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E7FDFA6347EE455BB7BC8C08373416D9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BD5465742DC4B85946D917EB3B8D8A8 }}
